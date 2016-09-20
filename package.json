@@ -1,0 +1,9 @@
+{
+    "name": "edx-test-app",
+    "version" : "0.0.1",
+    "private":true, 
+    "dependencies": {
+        "underscore": "1.5.2",
+        "mongodb": "2.0.35"
+    }
+}
